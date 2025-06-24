@@ -1,0 +1,7044 @@
+Customer Status,Churn Label,Churn Category,Churn Reason
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Price too high
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Deceased
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Price,Price too high
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Other,Deceased
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Price too high
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Price,Price too high
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Poor expertise of online support
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Deceased
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Deceased
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Deceased
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Other,Deceased
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Don't know
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Limited range of services
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Dissatisfaction,Service dissatisfaction
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Poor expertise of online support
+Churned,Yes,Dissatisfaction,Poor expertise of phone support
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Other,Don't know
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Price,Lack of affordable download/upload speed
+Churned,Yes,Price,Long distance charges
+Churned,Yes,Price,Extra data charges
+Churned,Yes,Price,Price too high
+Churned,Yes,Dissatisfaction,Product dissatisfaction
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Dissatisfaction,Lack of self-service on Website
+Churned,Yes,Dissatisfaction,Network reliability
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Other,Don't know
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of service provider
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Competitor,Competitor made better offer
+Churned,Yes,Attitude,Attitude of support person
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Other,Moved
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered more data
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor had better devices
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered higher download speeds
+Churned,Yes,Competitor,Competitor offered more data
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Joined,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
+Stayed,No,,
