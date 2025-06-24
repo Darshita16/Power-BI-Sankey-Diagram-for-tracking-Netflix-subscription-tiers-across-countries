@@ -1,11 +1,85 @@
-# Power-BI-Sankey-Diagram-for-tracking-Netflix-subscription-tiers-across-countries
-The Sankey diagram is a powerful tool for showcasing the flow of a population. This graphic is particularly challenging to make with traditional coding methods, so utilizing a tool such as PowerBI greatly simplified my effort. While significant data wrangling is required to build out the proper data model, the program easily generates the Sankey chart.
+# 📊 Power BI Sankey Diagram: Telco Customer Churn Flow
 
-This project shows how initial contacts may become subscribers without using a trial period using PowerBI DAX skills. It required me to unpivot data, create dynamic models, and format data to generate the desired graphic. I conducted the intial data cleaning using python. The code is attached
+This project uses a **Sankey diagram** in Power BI to visualize the **customer churn flow** in a telecom dataset. The goal is to uncover how customers transition across different stages—**from active or churned status**, through **churn labels**, to **churn categories and reasons**.
 
-The skills used here are:
+---
 
-- Data wrangling
-- PowerBI DAX functions
-- PowerBI data modeling
-- Generating Sankey charts 
+## 📌 Project Overview
+
+Customer churn is a critical challenge in the telecom industry. By using Power BI's Sankey chart, we can visualize:
+
+- The number of customers who churned vs. remained active
+- The category and reason for churn
+- Flow insights for better retention strategies
+
+---
+
+## 🔧 Tools Used
+
+- **Power BI Desktop**
+- **Power Query Editor**
+- **Sankey Chart by Microsoft or OKViz** (Power BI Visual)
+
+---
+
+## 📁 Dataset
+
+- Source: `telco.csv` (Telecom Customer Data)
+- Key columns used:
+  - `Customer Status`
+  - `Churn Label`
+  - `Churn Category`
+  - `Churn Reason`
+
+---
+
+## 🔁 Data Transformation Steps
+
+The dataset was processed in Power Query to form a multi-step flow:
+
+1. **Customer Status ➡ Churn Label**
+2. **Churn Label ➡ Churn Category**
+3. **Churn Category ➡ Churn Reason**
+
+Each pair was:
+- Grouped
+- Counted
+- Standardized into `Source`, `Destination`, and `Count` columns
+
+All flows were appended into a master table for visualization.
+
+---
+
+## 📊 Visualization
+
+A Sankey diagram was created using the following configuration:
+
+- **Source**: Stage (Status/Label/Category)
+- **Destination**: Next stage in the flow
+- **Weight**: Count of customers
+
+This reveals how and why customers drop off at different stages of their lifecycle.
+
+---
+
+## 🧠 Insights
+
+- Majority of churned customers left due to **competitive offers** and **limited service quality**
+- **Dissatisfaction and price-related issues** were common among long-term churners
+- The Sankey diagram effectively traced the most frequent churn pathways
+
+---
+
+## 🚀 How to Use
+
+1. Open Power BI Desktop
+2. Load the `telco.csv` dataset
+3. Use Power Query to transform the dataset as described
+4. Add the **Sankey Chart** from AppSource
+5. Map `Source`, `Destination`, and `Count` to the visual
+
+---
+
+## 📂 Folder Structure
+
+
